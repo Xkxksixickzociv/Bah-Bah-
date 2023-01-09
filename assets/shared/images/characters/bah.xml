@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bah.png">
+<SubTexture name="bah bah10000" x="3600" y="0" width="1200" height="1403" frameX="0" frameY="-128" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah10001" x="2400" y="0" width="1200" height="1473" frameX="0" frameY="-58" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah20000" x="0" y="0" width="1200" height="1531" frameX="0" frameY="0" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah20001" x="3600" y="1403" width="1200" height="1403" frameX="0" frameY="-128" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah20002" x="0" y="1531" width="1200" height="1473" frameX="0" frameY="-58" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah0000" x="1054" y="3004" width="1131" height="1186" frameX="-58" frameY="-338" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah0001" x="0" y="3004" width="1054" height="1299" frameX="-97" frameY="-225" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah0002" x="2254" y="1531" width="1054" height="1413" frameX="-97" frameY="-111" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah0003" x="1200" y="1531" width="1054" height="1473" frameX="-97" frameY="-51" frameWidth="1200" frameHeight="1531" />
+<SubTexture name="bah bah10002" x="1200" y="0" width="1200" height="1531" frameX="0" frameY="0" frameWidth="1200" frameHeight="1531" />
+</TextureAtlas>
